@@ -14,10 +14,10 @@ I build models that are tested properly: honest benchmarks, formal significance 
 
 #### 🧰 Toolbox
 
-**Languages:** Python · SQL · LaTeX
-**ML / DL:** PyTorch (LSTM, GRU, Transformer) · scikit-learn · XGBoost · LightGBM · SHAP · MLX
-**Statistics & econometrics:** time-series forecasting (ARIMA, ETS) · panel data / fixed effects · Diebold–Mariano tests · conformal prediction · calibration
-**Data:** pandas · public statistical APIs (Eurostat, CDC NHANES) · reproducible pipelines
+- **Languages:** Python · SQL · LaTeX
+- **ML / DL:** PyTorch (LSTM, GRU, Transformer) · scikit-learn · XGBoost · LightGBM · SHAP · MLX
+- **Statistics & econometrics:** time-series forecasting (ARIMA, ETS) · panel data / fixed effects · Diebold–Mariano tests · conformal prediction · calibration
+- **Data:** pandas · public statistical APIs (Eurostat, CDC NHANES) · reproducible pipelines
 
 #### 💼 I can help with
 
