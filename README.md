@@ -20,6 +20,10 @@ I'm an Assistant Professor at the **Symbiosis School of Economics**, Symbiosis I
   <img src="./assets/highlights.svg" alt="10 Patents · 10+ Publications · Ph.D. + Postdoc in AI · Led 16 AI/ML developers" width="100%"/>
 </p>
 
+<p align="center">
+  <img src="./assets/code.svg" width="100%" alt="Animated: a PyTorch model for early diabetes screening is typed in an editor, the network diagram assembles layer by layer, and a terminal trains and calibrates it"/>
+</p>
+
 ## Research Projects
 
 | Project | What it does | Methods |
