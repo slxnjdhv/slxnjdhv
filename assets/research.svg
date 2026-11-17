@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 170" width="1000" height="170">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f1330"/>
+      <stop offset="1" stop-color="#1a1440"/>
+    </linearGradient>
+  </defs>
+  <style>
+    .pill  { stroke-width: 1.5; fill-opacity: .06; stroke-opacity: .35; animation: lit 10s ease-in-out infinite; }
+    .t     { font-weight: 600; font-size: 13px; font-family: 'Segoe UI', -apple-system, Helvetica, Arial, sans-serif; fill: #e6e8ff; }
+    .e     { font-size: 16px; font-family: 'Apple Color Emoji', 'Segoe UI Emoji', sans-serif; }
+    .teal  { fill: #00f5d4; stroke: #00f5d4; }
+    .vio   { fill: #9b8cff; stroke: #9b8cff; }
+    .pink  { fill: #f15bb5; stroke: #f15bb5; }
+    @keyframes lit { 0%, 100% { fill-opacity: .06; stroke-opacity: .35; } 6% { fill-opacity: .28; stroke-opacity: 1; } 16% { fill-opacity: .06; stroke-opacity: .35; } }
+    @media (prefers-reduced-motion: reduce) { * { animation: none !important; } }
+  </style>
+  <rect width="1000" height="170" rx="18" fill="url(#bg)"/>
+  <rect class="pill teal" x="28" y="24" width="176" height="50" rx="25" fill-opacity=".06" stroke-opacity=".35" style="animation-delay:0s"/>
+  <text class="e" x="44" y="55">🩺</text><text class="t" x="70" y="54">AI in Healthcare</text>
+  <rect class="pill teal" x="220" y="24" width="176" height="50" rx="25" fill-opacity=".06" stroke-opacity=".35" style="animation-delay:1s"/>
+  <text class="e" x="236" y="55">📝</text><text class="t" x="262" y="54">Medical Text Mining</text>
+  <rect class="pill vio" x="412" y="24" width="176" height="50" rx="25" fill-opacity=".06" stroke-opacity=".35" style="animation-delay:2s"/>
+  <text class="e" x="428" y="55">🧠</text><text class="t" x="454" y="54">Neural Networks</text>
+  <rect class="pill vio" x="604" y="24" width="176" height="50" rx="25" fill-opacity=".06" stroke-opacity=".35" style="animation-delay:3s"/>
+  <text class="e" x="620" y="55">👁️</text><text class="t" x="646" y="54">Computer Vision</text>
+  <rect class="pill pink" x="796" y="24" width="176" height="50" rx="25" fill-opacity=".06" stroke-opacity=".35" style="animation-delay:4s"/>
+  <text class="e" x="812" y="55">🛡️</text><text class="t" x="838" y="54">Cyber Security</text>
+  <rect class="pill pink" x="28" y="96" width="176" height="50" rx="25" fill-opacity=".06" stroke-opacity=".35" style="animation-delay:5s"/>
+  <text class="e" x="44" y="127">🔍</text><text class="t" x="70" y="126">Digital Forensics</text>
+  <rect class="pill pink" x="220" y="96" width="176" height="50" rx="25" fill-opacity=".06" stroke-opacity=".35" style="animation-delay:6s"/>
+  <text class="e" x="236" y="127">📡</text><text class="t" x="262" y="126">IoT Security</text>
+  <rect class="pill pink" x="412" y="96" width="176" height="50" rx="25" fill-opacity=".06" stroke-opacity=".35" style="animation-delay:7s"/>
+  <text class="e" x="428" y="127">⛓️</text><text class="t" x="454" y="126">Blockchain</text>
+  <rect class="pill vio" x="604" y="96" width="176" height="50" rx="25" fill-opacity=".06" stroke-opacity=".35" style="animation-delay:8s"/>
+  <text class="e" x="620" y="127">📈</text><text class="t" x="646" y="126">Predictive Analytics</text>
+  <rect class="pill teal" x="796" y="96" width="176" height="50" rx="25" fill-opacity=".06" stroke-opacity=".35" style="animation-delay:9s"/>
+  <text class="e" x="812" y="127">💬</text><text class="t" x="838" y="126">Sentiment Analysis</text>
+</svg>
