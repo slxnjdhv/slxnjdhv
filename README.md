@@ -190,6 +190,10 @@ I'm always happy to discuss **research collaborations, Ph.D./M.Tech project guid
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=slxnjdhv&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution activity graph"/>
 </p>
 
+<p align="center">
+  <img src="./assets/snake.svg" width="100%" alt="Animated snake eating the contribution graph"/>
+</p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f5d4,50:9b8cff,100:f15bb5&height=120&section=footer&text=Thanks%20for%20visiting!&fontSize=22&fontColor=ffffff&fontAlignY=70" width="100%" alt="Footer wave"/>
