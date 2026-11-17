@@ -133,9 +133,6 @@
     </defs>
     <g class="sweep"><rect x="-320" y="-60" width="160" height="420" fill="url(#beam)" transform="skewX(-20)"/></g>
 
-    <!-- breathing underline -->
-    <rect class="uline" x="380" y="138" width="240" height="3" rx="1.5" fill="url(#text)"/>
-
     <g>
       <animateTransform attributeName="transform" type="translate" values="0 30;0 0" dur="1.2s" calcMode="spline" keySplines=".2 .8 .2 1" fill="freeze"/>
       <text class="title" x="500" y="120" text-anchor="middle" fill="url(#text)">Dr. Sulaxan Jadhav</text>
