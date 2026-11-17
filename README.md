@@ -182,7 +182,7 @@ I'm always happy to discuss **research collaborations, Ph.D./M.Tech project guid
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=slxnjdhv&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=slxnjdhv&theme=tokyonight" alt="GitHub stats"/>
   <img height="165" src="https://streak-stats.demolab.com?user=slxnjdhv&theme=tokyonight&hide_border=true" alt="Streak"/>
 </p>
 
